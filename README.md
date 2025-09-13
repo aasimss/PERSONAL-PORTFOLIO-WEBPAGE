@@ -75,3 +75,7 @@ For a beginner or intermediate developer, this type of single-page responsive po
 
 OUTPUT :  
 
+<img width="1341" height="446" alt="Image" src="https://github.com/user-attachments/assets/d7b12b2c-c1db-4073-ad7a-ff78f89d2aa5" />
+<img width="1330" height="480" alt="Image" src="https://github.com/user-attachments/assets/a3e2f0af-7453-4fd4-921b-73e067466b4e" />
+<img width="1346" height="630" alt="Image" src="https://github.com/user-attachments/assets/1113cf6c-6155-4da7-89fb-2efb3c712699" />
+
